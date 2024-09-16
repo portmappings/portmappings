@@ -5,7 +5,7 @@
   Passionate about building scalable backend systems and crafting efficient solutions using modern Java technologies. Based in the Dominican Republic, I focus on creating reliable game systems.
 </p>
 
-- 🛠️ Specialized in **Java 8**, **Spigot**, and **creating scabale systems** to deliver clean, maintainable code for large-scale applications.
+- 🛠️ Specialized in **Java 8**, **Spigot**, and **creating scalable systems** to deliver clean, maintainable code for large-scale applications.
 
 - 📫 Feel free to reach out to me via email: **portmapping.net@gmail.com**
 
